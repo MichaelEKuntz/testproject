@@ -5,3 +5,6 @@ def try_me(number):
         return dict_numbers[number]
     except KeyError:
         return "Please insert a valid integer between 0 and 20"
+
+if __name__ == '__main__':
+    try_me()
