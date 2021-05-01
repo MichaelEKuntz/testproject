@@ -27,3 +27,9 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# course packages
+git+https://github.com/Polanket/superPkg
+git+https://github.com/felixfa/Mario
+git+https://github.com/JPDZ67/josep
+git+https://github.com/MichaelEKuntz/testproject
